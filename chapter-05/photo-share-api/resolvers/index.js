@@ -6,6 +6,6 @@ const resolvers = {
   Query,
   Mutation,
   ...Type
-}
+};
 
-module.exports = resolvers
+module.exports = resolvers;
